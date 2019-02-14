@@ -27,6 +27,11 @@ protobuf.js 基础运行时库
 - [LcpLib_Egret](https://github.com/d8q8/LcpLib_Egret)
 Egret引擎的扩展封装类库 
 
+## 框架
+
+- [egret-ecs](https://github.com/esengine/egret-ecs)
+基于Egret开发的ECS框架。内容丰富
+
 
 # 如何收录至该库
 
